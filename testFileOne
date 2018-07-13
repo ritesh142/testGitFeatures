@@ -1,8 +1,12 @@
-Lorem ipsum dolor sit amet, an malis homero tibique vis, ex eam viris adipisci. His ut timeam persius, ex velit deseruisse his. Te eos libris noster senserit, error solet scripta vix at, sit virtute copiosae dissentiet et. Et eripuit similique mel, id vis posse tincidunt reprehendunt. Consul gloriatur sit an. Ea aperiam denique nam, ei qui causae appareat.
+Lorem ipsum dolor sit amet, an malis homero tibique vis, ex eam viris adipisci. __His ut timeam persius, ex velit deseruisse his__. Te eos libris noster senserit, error solet scripta vix at, sit virtute copiosae dissentiet et. Et eripuit similique mel, id vis posse tincidunt reprehendunt. Consul gloriatur sit an. Ea aperiam denique nam, ei qui causae appareat.
 
 An duo purto tota, timeam utamur luptatum ne per. Mei cu dico purto periculis. Ad eum choro delicata philosophia. Ad quo sale prompta eloquentiam, mea eu case erant legere, vis lorem minim ne. Quo et simul adipisci expetendis, ut quo minim accusata sententiae, sed voluptua consectetuer eu.
 
 Quo sumo everti probatus ad. Qui postulant voluptatum ut, ei ius facete petentium, ad paulo senserit forensibus has. Ius ad laoreet convenire intellegam, mel tempor vidisse interpretaris in, eu utamur persius virtute nam. Munere scripta accusata vel et, nullam scaevola facilisi ut nam, quo iisque civibus aliquando ex. Ut ludus homero blandit ius, aliquid lucilius an mea, sit no elitr ridens sanctus.
+
+The git revert command can be considered an 'undo' type command, however, it is not a traditional undo operation. Instead of removing the commit from the project history, it figures out how to invert the changes introduced by the commit and appends a new commit with the resulting inverse content. This prevents Git from losing history, which is important for the integrity of your revision history and for reliable collaboration.
+
+Reverting should be used when you want to apply the inverse of a commit from your project history. This can be useful, for example, if you’re tracking down a bug and find that it was introduced by a single commit. Instead of manually going in, fixing it, and committing a new snapshot, you can use git revert to automatically do all of this for you.
 
 At putant fastidii urbanitas sit, mel in consequat theophrastus. Odio sonet labitur vis an, eu vix veri sapientem persecuti. Cum ipsum veniam dictas ea, modus soluta minimum te usu. Vix mutat viderer salutandi no, apeirian inimicus vel ea.
 
@@ -17,3 +21,5 @@ An has nemore nusquam, delectus recteque iudicabit in eos. Mea copiosae insolens
 Et est tempor molestie torquatos, quem solet scribentur nec ad, pro persius vulputate id. Per ea prima incorrupte, no possit lucilius expetendis pri. Sed ea dicam ornatus civibus, erroribus definitiones ne sed. In modus nonumes ullamcorper usu, eu per mucius aliquando, simul melius ornatus no sea. Ut mea postea inermis disputationi, ei sed novum graece legimus.
 
 Elitr veritus referrentur mea eu, eu integre appetere mnesarchum est. Apeirian atomorum maiestatis quo ad, tempor quaeque molestiae an eum. Eu mutat dolores gubergren qui, has ad nominati molestiae temporibus, sea detraxit euripidis an. At ubique definitiones comprehensam duo, iusto nemore per et. His augue ullamcorper ex, eu soluta impedit volutpat eos, aliquando mnesarchum ad pro. Ei his intellegat sadipscing, te est esse maluisset. Pri ex munere commodo praesent, latine noluisse usu an.
+
+
